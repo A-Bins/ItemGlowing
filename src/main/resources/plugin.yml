@@ -1,0 +1,7 @@
+name: ItemGlowing
+version: ${project.version}
+main: itemglowing.Main
+api-version: 1.16
+authors: [ A_bins ]
+commands:
+  Glow:
